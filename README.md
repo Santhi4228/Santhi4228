@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SANTHI PRIYA JYOTHULA</h1>
+<!-- <h1 align="center">Hi 👋, I'm SANTHI PRIYA JYOTHULA</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 - 🌱 I’m currently learning **Django, React js**
@@ -32,4 +32,97 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
+
+
+<h1 align="center">Hi 👋, I'm Santhi Priya Jyothula</h1>
+<h3 align="center">Full Stack Developer | Django & React Enthusiast</h3>
+
+---
+
+### 👩‍💻 About Me
+- 🌱 Currently learning **Django** and **React.js**
+- 💡 Passionate about building scalable web applications and solving real-world problems
+- 🚀 Interested in Full Stack Development and Machine Learning
+- 📫 Reach me at: **santhipriyajyothula@gmail.com**
+
+---
+
+### 📄 Resume
+- 🔗 [View My Resume](https://drive.google.com/file/d/1wJel-sh_fV_Zqo47DInw84epBZN7KGT-/view?usp=sharing)
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/santhi priya jyothula" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://instagram.com/priya._.321._" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+<a href="https://www.topcoder.com/members/533437" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a>
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+</a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+</a>
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhi4228&" alt="GitHub streak stats" />
+</p>
